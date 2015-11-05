@@ -1,2 +1,2 @@
-# ti.preferences.widget
+# falkolab.ti.preferences
 Under construction
